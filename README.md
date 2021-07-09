@@ -16,3 +16,7 @@ jQuery - cross-platform JavaScript library designed to simplify the client-side 
 javascript - programming language used to provide dynamic behaviour to shis website.
 
 DOM Manipulation - is a platform and language-neutral interface that allows programs and scripts to dynamically access and update the content, structure, and style of a document
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/51289274/125025908-292b6b80-e0a1-11eb-820e-d2ef3f6684b2.png)
